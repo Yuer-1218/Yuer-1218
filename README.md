@@ -35,7 +35,7 @@ I am an undergraduate researcher at **Tsinghua University (EE)**, bridging the g
 - 📫 **Contact**: [ma-qy22@mails.tsinghua.edu.cn](mailto:ma-qy22@mails.tsinghua.edu.cn)
 
 <td width="40%" align="center">
-    <img src="https://media.giphy.com/media/3p50WGyUqiOHQpY3Fw/giphy.gif" width="280" alt="lofi study"/>
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" alt="cyberpunk coding"/>
 </td>
     </tr>
 </table>
