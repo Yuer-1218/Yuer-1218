@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=260&section=header&text=Yusuf's%20Lab&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Code,%20Poems,%20and%20Wireless%20Dreams&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=260&section=header&text=Yusuf's%20Home&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Code,%20Games,%20and%20Wireless%20Dreams&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Qiyu+Ma;Undergrad+Researcher+%40+Tsinghua;Semantic+Comm+%26+Stochastic+Geometry;Researcher+who+dream+to+change+World" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Qiyu+Ma;Undergrad+Researcher+%40+Tsinghua;Semantic+Comm+%26+Stochastic+Geometry;Researcher+who+dream+to+change+the+world" alt="Typing SVG" />
   </a>
 </h1>
 
