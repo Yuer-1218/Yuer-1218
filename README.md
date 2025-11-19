@@ -34,9 +34,6 @@ I am an undergraduate researcher at **Tsinghua University (EE)**, bridging the g
     - Team Leader for **THUAI** & **Hardware Design Contest** (Replica of Surface Dial).
 - 📫 **Contact**: [ma-qy22@mails.tsinghua.edu.cn](mailto:ma-qy22@mails.tsinghua.edu.cn)
 
-<td width="40%" align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" alt="cyberpunk coding"/>
-</td>
     </tr>
 </table>
 </div>
