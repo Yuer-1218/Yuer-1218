@@ -13,7 +13,7 @@
   <a href="https://scholar.google.com/citations?user=O1e3344AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://orcid.org/0009-0008-4604-147X"><img src="https://img.shields.io/badge/ORCID-0009--0008--4604--147X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://ieeexplore.ieee.org/author/615105114171058"><img src="https://img.shields.io/badge/IEEE%20Xplore-Author%20Page-00629B?style=for-the-badge" alt="IEEE Xplore"/></a>
-  <a href="mailto:ma-qy22@mails.tsinghua.edu.cn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:ma-qy22@tsinghua.org.cn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ I'm a recent **B.E. graduate of Tsinghua University (Electronic Engineering)** a
     - **MCM 2024 Honorable Mention** (Math Modeling).
     - **China Patent** on generative semantic communication (ZL 2025 1 1141469.1).
     - Team Leader for **THUAI** & **Hardware Design Contest** (Replica of Surface Dial).
-- 📫 **Contact**: [ma-qy22@mails.tsinghua.edu.cn](mailto:ma-qy22@mails.tsinghua.edu.cn)
+- 📫 **Contact**: [ma-qy22@tsinghua.org.cn](mailto:ma-qy22@tsinghua.org.cn)
 
     </tr>
 </table>
