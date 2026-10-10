@@ -79,9 +79,23 @@ I'm a recent **B.E. graduate of Tsinghua University (Electronic Engineering)** a
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yuer-1218/yuer-1218/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/yuer-1218/yuer-1218/main/github-metrics.svg" alt="Metrics" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuer-1218/yuer-1218/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuer-1218/yuer-1218/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/yuer-1218/yuer-1218/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=yuer-1218&label=Profile%20views&color=0e75b6&style=flat-square" alt="yuer-1218" /> 
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" width="100%"/>
+</div>
