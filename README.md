@@ -46,8 +46,8 @@ I am an undergraduate researcher at **Tsinghua University (EE)**, bridging the g
 | :--- | :--- |
 | **2025** | **Large AI Model-Enabled Generative Semantic Communications for Image Transmission** <br> *Qiyu Ma, Wanli Ni, Zhijin Qin* <br> Accepted by **IEEE GlobeCOM 2025** <br> [![arXiv](https://img.shields.io/badge/arXiv-2509.21394-b31b1b.svg)](https://arxiv.org/abs/2509.21394) |
 | **2025** | **Deep Learning Enabled Semantic Communication** (Chapter Contributor) <br> *Edited by Z. Qin et al., Wiley* <br> ![Status](https://img.shields.io/badge/Status-Forthcoming-blue) |
-| **2025** | **Offset Pointing for Energy-efficient Reception in Underwater Optical Wireless Communication: Modeling and Performance Analysis** <br> *Qiyu Ma, Jiajie Xu, Mohamed-Slim Alouini* <br> Submitted to **IEEE Internet of Things Journal (IoTJ)** <br> ![Status](https://img.shields.io/badge/Status-Under%20Review-yellow) |
-| **2025** | **ntegrated Discovery and State-Aware Servicing for Mobile AUVs in Underwater Networks: Modeling and Performance Analysis** <br> *Qiyu Ma, Jiajie Xu, Mohamed-Slim Alouini* <br> Submitted to **IEEE Transactions on Wireless Communication(TWC)** <br> ![Status](https://img.shields.io/badge/Status-Under%20Review-yellow) |
+| **2026** | **Offset Pointing for Energy-Efficient Reception in Underwater Optical Wireless Communication: Modeling and Performance Analysis** <br> *Qiyu Ma, Jiajie Xu, Mohamed-Slim Alouini* <br> Published in **IEEE Internet of Things Journal (IoT-J)**, vol. 13, no. 11, pp. 24777-24791 <br> [![arXiv](https://img.shields.io/badge/arXiv-2603.10822-b31b1b.svg)](https://arxiv.org/abs/2603.10822) [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-11433693-00629B.svg)](https://ieeexplore.ieee.org/document/11433693) |
+| **2026** | **Integrated Discovery and State-Aware Servicing for Mobile AUVs With UOWC: Modeling and Performance Analysis** <br> *Qiyu Ma, Jiajie Xu, Mohamed-Slim Alouini* <br> Accepted by **IEEE Transactions on Mobile Computing (TMC)** <br> [![arXiv](https://img.shields.io/badge/arXiv-2607.15183-b31b1b.svg)](https://arxiv.org/abs/2607.15183) |
 ---
 
 ### 🛠️ Arsenal
@@ -74,7 +74,7 @@ I am an undergraduate researcher at **Tsinghua University (EE)**, bridging the g
 <br>
 
 <div align="center">
-  <img src="https://github.com/yuer-1218/yuer-1218/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/yuer-1218/yuer-1218/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 <p align="center"> 
