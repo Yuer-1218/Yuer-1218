@@ -16,10 +16,6 @@
   <a href="mailto:ma-qy22@tsinghua.org.cn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuer-1218&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="yuer-1218" /></a>
-</p>
-
 ---
 
 <div align="center">
